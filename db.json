@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "shelly verma",
+      "date": "2020-01-05T17:26:08.122Z"
+    },
+    {
+      "message": "fixed hard drive on 711",
+      "attention": false,
+      "tech": "muskan verma",
+      "date": "2020-01-05T17:26:32.956Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "workstation 015 not fixed",
+      "attention": true,
+      "tech": "sandeep kumar",
+      "date": "2020-01-05T17:29:04.561Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "muskan",
+      "lastName": "verma"
+    },
+    {
+      "id": 3,
+      "firstName": "akshay",
+      "lastName": "kumar"
+    },
+    {
+      "firstName": "Nitish",
+      "lastName": "Kalra",
+      "id": 5
+    },
+    {
+      "firstName": "kritika",
+      "lastName": "girdhar",
+      "id": 6
+    }
+  ]
+}
